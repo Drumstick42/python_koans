@@ -1,0 +1,1 @@
+This repo contains completed code for the Python Koans. Only doing it for Python 3
